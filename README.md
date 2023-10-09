@@ -4,28 +4,7 @@
 
 <hr>
 
-![My Image](assets/img5.png)
-
-<hr>
-
-![My Image](assets/img1.png)
-
-<hr>
-
-![My Image](assets/img9.png)
-
-<hr>
-
-
 ![My Image](assets/img4.png)
-
-<hr>
-
-![My Image](assets/img3.png)
-
-<hr>
-
-![My Image](assets/img7.png)
 
 <hr>
 
